@@ -163,12 +163,12 @@ input::placeholder {
 .grid-container button:hover {
     background-color: #9fe8df;
     color: var(--very-dark-cyan);
+    cursor: pointer;
 }
 
 .grid-container button:focus {
     background-color: #30fff0;
     color: var(--very-dark-cyan);
-    cursor: pointer;
 }
 
 .people-input {
