@@ -4,7 +4,7 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://lucent-starlight-d15e28.netlify.app/
 
 ### Screenshot
 
