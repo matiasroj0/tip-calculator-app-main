@@ -8,7 +8,7 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![](./design/desktop-design-empty.jpg)
+![](./design/desktop-preview.jpg)
 
 ### The challenge
 
