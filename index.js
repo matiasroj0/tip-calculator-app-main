@@ -106,6 +106,12 @@ function checkBill() {
     }
 }
 
+resetBtn.addEventListener("click", ()=> {
+    billInput.value = "";
+    peopleInput.value = "";
+    tipAmountPerson.innerHTML = "$0.00";
+    tipTotalPerson.innerHTML = "$0.00";
+})
 
 
 
